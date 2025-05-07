@@ -58,22 +58,6 @@ flutter run          # For Flutter
 
 ---
 
-## 📁 Project Structure
-
-```bash
-📁 quiz-app
-├── 📁 src
-│   ├── 📁 components
-│   ├── 📁 pages
-│   ├── 📁 assets
-│   └── App.js / main.dart
-├── .env
-├── README.md
-└── package.json / pubspec.yaml
-```
-
----
-
 ## 🛠️ Contributing
 
 Contributions are welcome! Follow these steps:
